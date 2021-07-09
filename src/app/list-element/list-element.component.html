@@ -1,0 +1,38 @@
+<div class="period">
+  <div *ngFor="let element of elements" style="display: inline">
+    <a *ngIf="(element.number<57 || element.number>70) && (element.number<89 || element.number>102)"
+         class="pt element {{element.block}}"
+       [routerLink]="['/element', element.number]">
+      <div class="pt number">{{element.number}}</div>
+      <div class="pt symbol"><a href="{{element.source}}">{{element.symbol}}</a></div>
+      <div class="pt name">{{element.name}}</div>
+      <div class="pt mass">{{element.atomic_mass}}</div>
+    </a>
+    <div *ngIf="!element.number" class="pt element"></div>
+  </div>
+</div>
+
+<div class="divider"></div>
+
+
+<div class="period">
+  <div *ngFor="let element of elements" style="display: inline">
+    <a *ngIf="element.number>=57 && element.number<=70" class="pt element {{element.block}}" [routerLink]="['/element', element.number]">
+      <div class="pt number">{{element.number}}</div>
+      <div class="pt symbol"><a href="{{element.source}}">{{element.symbol}}</a></div>
+      <div class="pt name">{{element.name}}</div>
+      <div class="pt mass">{{element.atomic_mass}}</div>
+    </a>
+  </div>
+</div>
+
+<div class="period">
+  <div *ngFor="let element of elements" style="display: inline">
+    <a *ngIf="element.number>=89 && element.number<=102" class="pt element {{element.block}}" [routerLink]="['/element', element.number]">
+      <div class="pt number">{{element.number}}</div>
+      <div class="pt symbol"><a href="{{element.source}}">{{element.symbol}}</a></div>
+      <div class="pt name">{{element.name}}</div>
+      <div class="pt mass">{{element.atomic_mass}}</div>
+    </a>
+  </div>
+</div>
