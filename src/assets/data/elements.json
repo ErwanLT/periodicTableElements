@@ -32,7 +32,10 @@
         1312
       ],
       "cpk-hex": "ffffff",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     { "none": null },
     { "none": null },
@@ -84,7 +87,10 @@
         5250.5
       ],
       "cpk-hex": "d9ffff",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Lithium",
@@ -122,7 +128,10 @@
         11815
       ],
       "cpk-hex": "cc80ff",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Beryllium",
@@ -161,7 +170,10 @@
         21006.6
       ],
       "cpk-hex": "c2ff00",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":true,
+      "is_carcinogenic":true,
+      "radioactive":false
     },
     { "none": null },
     { "none": null },
@@ -211,7 +223,10 @@
         32826.7
       ],
       "cpk-hex": "ffb5b5",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Carbon",
@@ -252,7 +267,10 @@
         47277
       ],
       "cpk-hex": "909090",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Nitrogen",
@@ -294,7 +312,10 @@
         64360
       ],
       "cpk-hex": "3050f8",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Oxygen",
@@ -337,7 +358,10 @@
         84078
       ],
       "cpk-hex": "ff0d0d",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Fluorine",
@@ -381,7 +405,10 @@
         106434.3
       ],
       "cpk-hex": "90e050",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Neon",
@@ -426,7 +453,10 @@
         131432
       ],
       "cpk-hex": "b3e3f5",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Sodium",
@@ -473,7 +503,10 @@
         159076
       ],
       "cpk-hex": "ab5cf2",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Magnesium",
@@ -521,7 +554,10 @@
         189368
       ],
       "cpk-hex": "8aff00",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     { "none": null },
     { "none": null },
@@ -580,7 +616,10 @@
         222316
       ],
       "cpk-hex": "bfa6a6",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Silicon",
@@ -630,7 +669,10 @@
         257923
       ],
       "cpk-hex": "f0c8a0",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Phosphorus",
@@ -681,7 +723,10 @@
         296195
       ],
       "cpk-hex": "ff8000",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Sulfur",
@@ -733,7 +778,10 @@
         337138
       ],
       "cpk-hex": "ffff30",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Chlorine",
@@ -786,7 +834,10 @@
         380760
       ],
       "cpk-hex": "1ff01f",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Argon",
@@ -840,7 +891,10 @@
         427066
       ],
       "cpk-hex": "80d1e3",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Potassium",
@@ -896,7 +950,10 @@
         476063
       ],
       "cpk-hex": "8f40d4",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Calcium",
@@ -953,7 +1010,10 @@
         527762
       ],
       "cpk-hex": "3dff00",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Scandium",
@@ -1011,7 +1071,10 @@
         582163
       ],
       "cpk-hex": "e6e6e6",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Titanium",
@@ -1070,7 +1133,10 @@
         639294
       ],
       "cpk-hex": "bfc2c7",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Vanadium",
@@ -1130,7 +1196,10 @@
         699144
       ],
       "cpk-hex": "a6a6ab",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Chromium",
@@ -1191,7 +1260,10 @@
         761733
       ],
       "cpk-hex": "8a99c7",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Manganese",
@@ -1253,7 +1325,10 @@
         827067
       ],
       "cpk-hex": "9c7ac7",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Iron",
@@ -1316,7 +1391,10 @@
         895161
       ],
       "cpk-hex": "e06633",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Cobalt",
@@ -1380,7 +1458,10 @@
         966023
       ],
       "cpk-hex": "f090a0",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":true,
+      "radioactive":false
     },
     {
       "name": "Nickel",
@@ -1445,7 +1526,10 @@
         1039668
       ],
       "cpk-hex": "50d050",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":true,
+      "radioactive":false
     },
     {
       "name": "Copper",
@@ -1511,7 +1595,10 @@
         1116105
       ],
       "cpk-hex": "c88033",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Zinc",
@@ -1569,7 +1656,10 @@
         179100
       ],
       "cpk-hex": "7d80b0",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Gallium",
@@ -1610,7 +1700,10 @@
         6180
       ],
       "cpk-hex": "c28f8f",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Germanium",
@@ -1652,7 +1745,10 @@
         9020
       ],
       "cpk-hex": "668f8f",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Arsenic",
@@ -1695,7 +1791,10 @@
         12310
       ],
       "cpk-hex": "bd80e3",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":true,
+      "radioactive":false
     },
     {
       "name": "Selenium",
@@ -1739,7 +1838,10 @@
         14990
       ],
       "cpk-hex": "ffa100",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Bromine",
@@ -1784,7 +1886,10 @@
         18600
       ],
       "cpk-hex": "a62929",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Krypton",
@@ -1851,7 +1956,10 @@
         326200
       ],
       "cpk-hex": "5cb8d1",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Rubidium",
@@ -1899,7 +2007,10 @@
         26740
       ],
       "cpk-hex": "702eb0",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Strontium",
@@ -1948,7 +2059,10 @@
         31270
       ],
       "cpk-hex": "00ff00",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Yttrium",
@@ -1998,7 +2112,10 @@
         36090
       ],
       "cpk-hex": "94ffff",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Zirconium",
@@ -2042,7 +2159,10 @@
         9500
       ],
       "cpk-hex": "94e0e0",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Niobium",
@@ -2087,7 +2207,10 @@
         12100
       ],
       "cpk-hex": "73c2c9",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Molybdenum",
@@ -2155,7 +2278,10 @@
         154500
       ],
       "cpk-hex": "54b5b5",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Technetium",
@@ -2196,7 +2322,10 @@
         2850
       ],
       "cpk-hex": "3b9e9e",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Ruthenium",
@@ -2237,7 +2366,10 @@
         2747
       ],
       "cpk-hex": "248f8f",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Rhodium",
@@ -2278,7 +2410,10 @@
         2997
       ],
       "cpk-hex": "0a7d8c",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Palladium",
@@ -2318,7 +2453,10 @@
         3177
       ],
       "cpk-hex": "006985",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Silver",
@@ -2359,7 +2497,10 @@
         3361
       ],
       "cpk-hex": "c0c0c0",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Cadmium",
@@ -2400,7 +2541,10 @@
         3616
       ],
       "cpk-hex": "ffd98f",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":true,
+      "radioactive":false
     },
     {
       "name": "Indium",
@@ -2442,7 +2586,10 @@
         5210
       ],
       "cpk-hex": "a67573",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Tin",
@@ -2485,7 +2632,10 @@
         7456
       ],
       "cpk-hex": "668080",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Antimony",
@@ -2529,7 +2679,10 @@
         10400
       ],
       "cpk-hex": "9e63b5",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Tellurium",
@@ -2574,7 +2727,10 @@
         13200
       ],
       "cpk-hex": "d47a00",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Iodine",
@@ -2615,7 +2771,10 @@
         3180
       ],
       "cpk-hex": "940094",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Xenon",
@@ -2656,7 +2815,10 @@
         3099.4
       ],
       "cpk-hex": "429eb0",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Cesium",
@@ -2698,7 +2860,10 @@
         3400
       ],
       "cpk-hex": "57178f",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Barium",
@@ -2740,7 +2905,10 @@
         3600
       ],
       "cpk-hex": "00c900",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Lanthanum",
@@ -2784,7 +2952,10 @@
         5940
       ],
       "cpk-hex": "70d4ff",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Cerium",
@@ -2829,7 +3000,10 @@
         7490
       ],
       "cpk-hex": "ffffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Praseodymium",
@@ -2873,7 +3047,10 @@
         5551
       ],
       "cpk-hex": "d9ffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Neodymium",
@@ -2916,7 +3093,10 @@
         3900
       ],
       "cpk-hex": "c7ffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Promethium",
@@ -2959,7 +3139,10 @@
         3970
       ],
       "cpk-hex": "a3ffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Samarium",
@@ -3002,7 +3185,10 @@
         3990
       ],
       "cpk-hex": "8fffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Europium",
@@ -3045,7 +3231,10 @@
         4120
       ],
       "cpk-hex": "61ffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Gadolinium",
@@ -3088,7 +3277,10 @@
         4250
       ],
       "cpk-hex": "45ffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Terbium",
@@ -3131,7 +3323,10 @@
         3839
       ],
       "cpk-hex": "30ffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Dysprosium",
@@ -3174,7 +3369,10 @@
         3990
       ],
       "cpk-hex": "1fffc7",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Holmium",
@@ -3217,7 +3415,10 @@
         4100
       ],
       "cpk-hex": "00ff9c",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Erbium",
@@ -3260,7 +3461,10 @@
         4120
       ],
       "cpk-hex": "00e675",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Thulium",
@@ -3303,7 +3507,10 @@
         4120
       ],
       "cpk-hex": "00d452",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Ytterbium",
@@ -3346,7 +3553,10 @@
         4203
       ],
       "cpk-hex": "00bf38",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Lutetium",
@@ -3390,7 +3600,10 @@
         6445
       ],
       "cpk-hex": "00ab24",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Hafnium",
@@ -3433,7 +3646,10 @@
         3216
       ],
       "cpk-hex": "4dc2ff",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Tantalum",
@@ -3474,7 +3690,10 @@
         1500
       ],
       "cpk-hex": "4da6ff",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Tungsten",
@@ -3515,7 +3734,10 @@
         1700
       ],
       "cpk-hex": "2194d6",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Rhenium",
@@ -3558,7 +3780,10 @@
         3640
       ],
       "cpk-hex": "267dab",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Osmium",
@@ -3599,7 +3824,10 @@
         1600
       ],
       "cpk-hex": "266696",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Iridium",
@@ -3640,7 +3868,10 @@
         1600
       ],
       "cpk-hex": "175487",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Platinum",
@@ -3681,7 +3912,10 @@
         1791
       ],
       "cpk-hex": "d0d0e0",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Gold",
@@ -3722,7 +3956,10 @@
         1980
       ],
       "cpk-hex": "ffd123",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Mercury",
@@ -3764,7 +4001,10 @@
         3300
       ],
       "cpk-hex": "b8b8d0",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Thallium",
@@ -3806,7 +4046,10 @@
         2878
       ],
       "cpk-hex": "a6544d",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Lead",
@@ -3850,7 +4093,10 @@
         6640
       ],
       "cpk-hex": "575961",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":true,
+      "radioactive":false
     },
     {
       "name": "Bismuth",
@@ -3895,7 +4141,10 @@
         8520
       ],
       "cpk-hex": "9e4fb5",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     },
     {
       "name": "Polonium",
@@ -3935,7 +4184,10 @@
         812.1
       ],
       "cpk-hex": "ab5c00",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Astatine",
@@ -3975,7 +4227,10 @@
         899.003
       ],
       "cpk-hex": "754f45",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Radon",
@@ -4015,7 +4270,10 @@
         1037
       ],
       "cpk-hex": "428296",
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Francium",
@@ -4056,7 +4314,10 @@
         380
       ],
       "cpk-hex": "420066",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Radium",
@@ -4098,7 +4359,10 @@
         979
       ],
       "cpk-hex": "007d00",
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":true,
+      "is_carcinogenic":true,
+      "radioactive":true
     },
     {
       "name": "Actinium",
@@ -4140,7 +4404,10 @@
         1170
       ],
       "cpk-hex": "70abfa",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Thorium",
@@ -4184,7 +4451,10 @@
         2780
       ],
       "cpk-hex": "00baff",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Protactinium",
@@ -4225,7 +4495,10 @@
         568
       ],
       "cpk-hex": "00a1ff",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Uranium",
@@ -4267,7 +4540,10 @@
         1420
       ],
       "cpk-hex": "008fff",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":true,
+      "radioactive":true
     },
     {
       "name": "Neptunium",
@@ -4308,7 +4584,10 @@
         604.5
       ],
       "cpk-hex": "0080ff",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Plutonium",
@@ -4349,7 +4628,10 @@
         584.7
       ],
       "cpk-hex": "006bff",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Americium",
@@ -4390,7 +4672,10 @@
         578
       ],
       "cpk-hex": "545cf2",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Curium",
@@ -4431,7 +4716,10 @@
         581
       ],
       "cpk-hex": "785ce3",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Berkelium",
@@ -4472,7 +4760,10 @@
         601
       ],
       "cpk-hex": "8a4fe3",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Californium",
@@ -4513,7 +4804,10 @@
         608
       ],
       "cpk-hex": "a136d4",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Einsteinium",
@@ -4554,7 +4848,10 @@
         619
       ],
       "cpk-hex": "b31fd4",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Fermium",
@@ -4595,7 +4892,10 @@
         627
       ],
       "cpk-hex": "b31fba",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Mendelevium",
@@ -4636,7 +4936,10 @@
         635
       ],
       "cpk-hex": "b30da6",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Nobelium",
@@ -4677,7 +4980,10 @@
         642
       ],
       "cpk-hex": "bd0d87",
-      "block": "f-block"
+      "block": "f-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Lawrencium",
@@ -4718,7 +5024,10 @@
         470
       ],
       "cpk-hex": "c70066",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Rutherfordium",
@@ -4759,7 +5068,10 @@
         580
       ],
       "cpk-hex": "cc0059",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Dubnium",
@@ -4798,7 +5110,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": "d1004f",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Seaborgium",
@@ -4837,7 +5152,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": "d90045",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Bohrium",
@@ -4876,7 +5194,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": "e00038",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Hassium",
@@ -4915,7 +5236,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": "e6002e",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Meitnerium",
@@ -4954,7 +5278,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": "eb0026",
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Darmstadtium",
@@ -4993,7 +5320,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Roentgenium",
@@ -5032,7 +5362,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Copernicium",
@@ -5071,7 +5404,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "d-block"
+      "block": "d-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Nihonium",
@@ -5110,7 +5446,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Flerovium",
@@ -5149,7 +5488,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Moscovium",
@@ -5188,7 +5530,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Livermorium",
@@ -5227,7 +5572,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Tennessine",
@@ -5266,7 +5614,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Oganesson",
@@ -5305,7 +5656,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "p-block"
+      "block": "p-block",
+      "is_toxic":true,
+      "is_carcinogenic":false,
+      "radioactive":true
     },
     {
       "name": "Ununennium",
@@ -5345,7 +5699,10 @@
       "electronegativity_pauling": null,
       "ionization_energies": [],
       "cpk-hex": null,
-      "block": "s-block"
+      "block": "s-block",
+      "is_toxic":false,
+      "is_carcinogenic":false,
+      "radioactive":false
     }
   ]
 
