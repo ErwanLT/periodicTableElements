@@ -10,6 +10,7 @@ import {Router} from '@angular/router';
 export class ListElementComponent implements OnInit {
 
   elements: any;
+  groups: any;
 
   constructor(private httpClient: HttpClient,
               private router: Router) { }
@@ -17,10 +18,9 @@ export class ListElementComponent implements OnInit {
   ngOnInit(): void {
     this.httpClient.get('/assets/data/elements.json').subscribe(elements => {
       this.elements = elements;
-    })
-  }
-
-  elementDetail(element: any) {
-    this.router.navigate(['/element'], {state: {data: element}});
+    });
+    this.httpClient.get('/assets/data/groups.json').subscribe(groups => {
+      this.groups = groups;
+    });
   }
 }

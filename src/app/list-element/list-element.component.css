@@ -9,6 +9,17 @@
   font-size: 0px;
 }
 
+.groups {
+  display: inline;
+}
+
+.group {
+  border: 1px solid white;
+  width: calc((100% / 18) - 2px);
+  font-size: initial;
+  background-color: lightgray;
+}
+
 .elementInfo {
   border : 1px solid black;
   align-content: center;

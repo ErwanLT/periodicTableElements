@@ -1,5 +1,9 @@
 <div class="divider"></div>
 
+<div *ngFor="let group of groups" class="groups">
+  <div class="pt group">{{group.name}}</div>
+</div>
+
 <div class="period">
   <div *ngFor="let element of elements" style="display: inline">
     <div *ngIf="(element.number<57 || element.number>70) && (element.number<89 || element.number>102)"
