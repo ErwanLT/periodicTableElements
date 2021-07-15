@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import {ActivatedRoute, Router} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
 
 @Component({
@@ -13,11 +13,16 @@ export class ElementComponent implements OnInit {
   element: any;
 
   constructor(private route: ActivatedRoute,
+              private router: Router,
               private httpClient: HttpClient) { }
 
   ngOnInit(): void {
     const routeParams = this.route.snapshot.paramMap;
     const elementNumberFromRoute = Number(routeParams.get('elementNumber'));
+
+    if(elementNumberFromRoute > 119){
+      this.router.navigate(['elementNotFound']);
+    }
 
     this.httpClient.get('/assets/data/elements.json').subscribe(elements => {
       this.elements = elements;

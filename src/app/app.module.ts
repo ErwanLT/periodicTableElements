@@ -8,6 +8,7 @@ import { ListElementComponent } from './list-element/list-element.component';
 import { ElementComponent } from './element/element.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
+import { ElementInexistantComponent } from './element-inexistant/element-inexistant.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { HeaderComponent } from './header/header.component';
     ListElementComponent,
     ElementComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
+    ElementInexistantComponent
   ],
   imports: [
     BrowserModule,
