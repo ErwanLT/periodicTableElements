@@ -2,7 +2,19 @@
   display: grid;
   align-items: center;
   justify-content: center;
-  color: white;
-  background-image: url("src/assets/img/space.jpeg");
   height: 515px;
+}
+
+.codeError {
+  font-weight: bold;
+  font-size: 1000%;
+}
+
+span {
+  padding: 0px 0px 0px;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: underline;
 }
