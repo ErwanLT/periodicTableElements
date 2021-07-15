@@ -1,0 +1,14 @@
+header {
+  background-color: white;
+}
+
+.headerImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.version{
+  font-size: 15px;
+  font-weight: normal;
+}

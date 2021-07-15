@@ -17,9 +17,9 @@
     <div *ngIf="element.named_by"><span class="label">Nommé par : </span>{{element.named_by}}</div>
     <div *ngIf="element.melt"><span class="label">Point de fusion : </span> {{(element.melt - 32) * (5/9)}} </div>
     <div style="display: inline-flex">
-      <div *ngIf="element.is_toxic"><img src="assets/hazardSymbols/toxic.png" style="height: 180px; width: 240px"></div>
-      <div *ngIf="element.is_carcinogenic"><img src="assets/hazardSymbols/carcinogenic.png" style="height: 180px; width: 240px"></div>
-      <div *ngIf="element.radioactive"><img src="assets/hazardSymbols/radioactive.png" style="height: 180px; width: 180px"></div>
+      <div *ngIf="element.is_toxic"><img src="assets/hazardSymbols/toxic.png" class="logo"></div>
+      <div *ngIf="element.is_carcinogenic"><img src="assets/hazardSymbols/carcinogenic.png" class="logo"></div>
+      <div *ngIf="element.radioactive"><img src="assets/hazardSymbols/radioactive.png" style="height: 100px; width: 100px"></div>
     </div>
   </div>
 </div>

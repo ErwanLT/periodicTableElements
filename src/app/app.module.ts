@@ -6,12 +6,16 @@ import { AppComponent } from './app.component';
 import {HttpClientModule} from '@angular/common/http';
 import { ListElementComponent } from './list-element/list-element.component';
 import { ElementComponent } from './element/element.component';
+import { FooterComponent } from './footer/footer.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListElementComponent,
-    ElementComponent
+    ElementComponent,
+    FooterComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
